@@ -1,2 +1,2 @@
 # InsideCoaching
-Recursos utilizados para los clientes de Inside
+Recursos utilizados para los clientes de Inside en la rama Master 
